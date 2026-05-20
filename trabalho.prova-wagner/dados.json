@@ -1,0 +1,44 @@
+[
+     {
+          "nome" : "david",
+          "idade" : "15",
+          "cor" : "verde",
+          "time" : "framenguin",
+          "butao" : "botar"
+     },
+
+     {
+          "nome" : "nycolas",
+          "idade" : "11",
+          "cor" : "vermei",
+          "time" : "santos",
+          "butao" : "botar"
+     },
+
+     {
+          "nome" : "francielli",
+          "idade" : "38",
+          "cor" : "branco",
+          "time" : "fruminse",
+          "butao" : "botar"
+
+     },
+
+     {
+          "nome" : "simei",
+          "idade" : "40",
+          "cor" : "marrom",
+          "time" : "gremio",
+          "butao" : "botar"
+
+     },
+
+     {
+          "nome" : "eloah",
+          "idade" : "6",
+          "cor" : "azul",
+          "time" : "afa",
+          "butao" : "botar"
+
+     }
+]
